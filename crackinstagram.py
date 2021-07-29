@@ -23,7 +23,7 @@ def chk():
       time.sleep(1) 
       pass 
     else: 
-      print("\x1b[91mID ACTIVE NYA  Bo Active KRdn Nama @lilililillillill\033[97m") 
+      print("\x1b[91mID ACTIVE NYA\033[97m") 
       time.sleep(1) 
       sys.exit() 
   except: 
