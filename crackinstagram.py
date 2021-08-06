@@ -1,4 +1,4 @@
-#amo
+#yyhamayy
 import requests
 import json
 import time
@@ -85,6 +85,7 @@ logo = '''\x1b[1;92m
                                                                                                        
                                                                                                        
                                                                                                                                                        
+CRACK INSTAGRAM
  '''
 logo2 = '\x1b[90;1m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\x1b[0;1m'
 
