@@ -65,11 +65,11 @@ headers={
     'x-requested-with': 'XMLHttpRequest',
 }
 banek='''\x1b[1;97m
- [\033[32m1\x1b[1;97m] ==> CRACK RAQAM + PASS   (0750 + 9999)
- [\033[32m2\x1b[1;97m] ==> CRACK RAQAM + RAQAM  (0750 + 0750)
- [\033[32m3\x1b[1;97m] ==> CRACK GMAIL + RAQAM (@gmail + 0750)
- [\033[32m4\x1b[1;97m] ==> CRACK EMAIL + PASS (@gmail + 9999)
- [\033[32m0\x1b[1;97m] ==> DARCHWN LA TOOL
+ [\033[32m1\x1b[1;97m] ==> CRACK NUMBER + PASS   (0750 + 9999)
+ [\033[32m2\x1b[1;97m] ==> CRACK NUMBER + NUMBER  (0750 + 0750)
+ [\033[32m3\x1b[1;97m] ==> CRACK GMAIL + NUMBER (@gmail + 0750)
+ [\033[32m4\x1b[1;97m] ==> CRACK GMAIL + PASS (@gmail + 9999)
+ [\033[32m0\x1b[1;97m] ==> EXIT IN TOOL
 '''
 logo = '''\x1b[1;92m
 __  __             __  __                         __  __     
